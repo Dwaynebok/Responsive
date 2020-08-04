@@ -1,2 +1,2 @@
 # Responsive
-https://dwaynebok.github.io/Responsive/.
+https://dwaynebok.github.io/Responsive/
