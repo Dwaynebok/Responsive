@@ -1,0 +1,67 @@
+@media only screen and (max-width: 300px) {
+    body {
+        background-color: red;
+
+    }
+}
+
+
+
+    @media only screen and (min-width: 300px ) and (max-width: 768px ) {
+        body {
+            background-color: green;
+        }
+        #Small {
+            width: 66%;
+            float: left;
+        }
+
+        #Medium {
+            width: 33%;
+            float: left;
+        }
+    }
+
+
+
+
+
+    @media only screen and (min-width: 768px ) {
+        body {
+            background-color: blue;
+        }
+        #Small{
+            float: left;
+            width: 33%;
+        }
+
+        #Medium{;
+            float:left;
+            width: 33%;
+        }
+
+        #Large{
+            float: left;
+            width: 33%;
+        }
+    }
+
+
+
+
+
+
+
+div.LIberty {
+    font-family: "serif";
+    font-size: large;
+    text-align: center;
+}
+
+
+.Footer {
+    font-family: inherit;
+    font-size: medium;
+    border-spacing: initial;
+}
+
